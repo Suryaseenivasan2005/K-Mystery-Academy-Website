@@ -1,7 +1,15 @@
 {
-  "description": "Explore chemistry courses, interact with a 3D water molecule, and learn about tutoring with Anjana. Demo enrollment and dashboard previews help families explore the academy.",
+  "title": "K-Mystery Academy",
+  "description": "Learn the logic behind chemistry — Independent online chemistry tutoring by Anjana.",
+  "language": "en",
+  "icons": {
+    "icon": "/favicon.svg"
+  },
+  "openGraph": {
+    "image": "/og-image.png"
+  },
   "robots": {
-    "index": false
+    "index": true
   },
   "accessibility": {
     "addBypassLinks": false,
