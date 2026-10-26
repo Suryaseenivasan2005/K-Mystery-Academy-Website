@@ -1,0 +1,10 @@
+{
+  "description": "Explore chemistry courses, interact with a 3D water molecule, and learn about tutoring with Anjana. Demo enrollment and dashboard previews help families explore the academy.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
